@@ -45,7 +45,7 @@
     "country-list": "^2.2.0",
     "csv-parse": "^4.8.9",
     "express": "^4.17.1",
-    "express-fileupload": "^1.1.6",
+    "express-fileupload": "^1.4.0",
     "express-handlebars": "^4.0.3",
     "express-promise-router": "^3.0.3",
     "express-rate-limit": "^5.1.1",
