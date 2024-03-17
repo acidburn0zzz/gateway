@@ -32,7 +32,7 @@
   "dependencies": {
     "@fluent/bundle": "^0.15.1",
     "@fluent/dom": "^0.6.0",
-    "acme-client": "^3.3.1",
+    "acme-client": "^5.3.0",
     "ajv": "^6.12.2",
     "archiver": "^4.0.1",
     "asn1.js": "^5.3.0",
